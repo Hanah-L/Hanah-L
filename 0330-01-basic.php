@@ -18,10 +18,10 @@ echo __DIR__. '<br>'; //此檔案所在的資料夾
 echo __FILE__. '<br>'; //顯示檔案所在的完整路徑
 echo __LINE__. '<br>'; //顯示行數(列數)
 
-define('MY_CONST', 3333); //常數設定後無法更改，概念同js的const
+define('MY_CONST', 3333); //常數設定後無法更改，概念同js的constdddd
 echo MY_CONST. '<br>';
 echo false. '<br>'; //布林值不區分大小寫，顯示為空字串
-echo true. '<br>'; //布林值不區分大小寫，顯示為數值1
+echo true. '<br>'; //布林值不區分大小寫，顯示為數值1zzzzz
 
 
 ?>
