@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-$my = 123; //php的全域變數不用宣告，直接設定即可
+$my = 123; //php的全域變數不用宣告，直接設定即可dsfsdf
 //echo $my;
 $a = "55";
 $b = "abc";
